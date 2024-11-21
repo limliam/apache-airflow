@@ -440,7 +440,8 @@ partd==1.3.0
 pathspec==0.9.0
 pbr==5.11.0
 pdpyras==4.5.2
-pendulum==2.1.2
+#pendulum==2.1.2
+pendulum
 pexpect==4.8.0
 pickleshare==0.7.5
 pinotdb==0.4.8
@@ -643,7 +644,8 @@ wrapt==1.14.1
 xmltodict==0.13.0
 yamllint==1.28.0
 yandexcloud==0.191.0
-yarl==1.8.1
+#yarl==1.8.1
+yarl
 zeep==4.2.1
 zenpy==2.0.25
 zict==2.2.0
